@@ -33,6 +33,6 @@ Este programa en C convierte un número decimal (base 10) ingresado por el usuar
 
 - El programa no valida entradas negativas ni caracteres no numéricos.
 - Solo convierte números enteros positivos o cero.
-```
+
 
 ---
